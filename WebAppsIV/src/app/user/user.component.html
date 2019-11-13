@@ -1,0 +1,7 @@
+<mat-card>
+<mat-card-title>Posts from {{user.firstName}} {{user.lastName}}</mat-card-title>
+
+<div *ngFor="let post of user.posts">
+<app-post data-cy="postCard" [post]="post" [user]="user"></app-post>
+</div>
+</mat-card>

@@ -1,0 +1,47 @@
+[{
+    "id": 1,
+    "firstName": "firstGuy",
+    "lastName": "firstGuy",
+    "email": "firstGuy@gmail.com",
+    "posts": [{
+      "id": 1,
+      "title": "first post",
+      "comments": [{
+        "text": "first comment",
+        "dateAdded": "2019-02-07T12:40:03.184905"
+      }],
+      "dateAdded": "2019-02-07T12:39:03.184905"
+    }]
+  },
+
+  {
+    "id": 2,
+    "firstName": "secondGuy",
+    "lastName": "secondGuy",
+    "email": "secondGuy@gmail.com",
+    "posts": [{
+      "id": 2,
+      "title": "second post",
+      "comments": [{
+        "text": "second comment",
+        "dateAdded": "2019-02-07T12:40:03.184905"
+      }],
+      "dateAdded": "2019-02-07T12:39:03.184905"
+    }]
+  },
+  {
+    "id": 3,
+    "firstName": "thirdGuy",
+    "lastName": "thirdGuy",
+    "email": "thirdGuy@gmail.com",
+    "posts": [{
+      "id": 3,
+      "title": "third post",
+      "comments": [{
+        "text": "third comment",
+        "dateAdded": "2019-02-07T12:40:03.184905"
+      }],
+      "dateAdded": "2019-02-07T12:39:03.184905"
+    }]
+  }
+]

@@ -1,0 +1,10 @@
+mat-card{
+    background-color: lightskyblue;
+    margin: 1em;
+}
+#removeButton{
+    background-color: white;
+    float: right;
+    border-radius: 50%;
+    
+}
